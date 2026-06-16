@@ -1,4 +1,4 @@
-# 📘 Rahul's Helper Guide: Social Media Trend Analyzer
+# 📘 shinchana's Helper Guide: Social Media Trend Analyzer
 
 Welcome to the **Social Media Trend Analyzer**! This document is designed to give you an end-to-end understanding of what this project is, how it works, and what each part of the code does. Think of it as your beginner-friendly compass to navigate the codebase.
 

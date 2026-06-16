@@ -1,0 +1,4 @@
+sentiment_label,count,avg_score
+negative,723,-0.41520746887966803
+neutral,670,5.074626865671651e-05
+positive,1395,0.5990713261648745
